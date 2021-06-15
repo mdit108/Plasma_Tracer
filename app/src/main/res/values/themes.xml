@@ -16,4 +16,8 @@
     <style name="MenuStyle" parent="Theme.MaterialComponents.Light">
         <item name="android:background">@android:color/white</item>
     </style>
+    <style name="screenhead">
+        <item name="android:textSize">20sp</item>
+        <item name="textAllCaps">true</item>
+    </style>
 </resources>
