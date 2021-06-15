@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663760570285",
+    "firebase_url": "https://plasma-tracer-default-rtdb.firebaseio.com",
+    "project_id": "plasma-tracer",
+    "storage_bucket": "plasma-tracer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663760570285:android:89c917d8a3716099118324",
+        "android_client_info": {
+          "package_name": "com.example.android.plasmatracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663760570285-v8vddlm5dn35cvpeih9lb22qf94r850i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hOlccbzh7Cn0r4oS8wO6BcW_Ls4-rYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663760570285-v8vddlm5dn35cvpeih9lb22qf94r850i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
